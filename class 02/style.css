@@ -1,0 +1,18 @@
+h1 {
+    background-color: aquamarine;
+}
+
+.child1 {
+    flex-grow: 2;
+}
+
+.box {
+    display: flex;
+    /* flex-wrap: wrap; */
+    flex-direction: column;
+    /* justify-content: space-around; */
+    align-items: center;
+    /* background-color: yellow; */
+    /* gap: 20px; */
+    height: 200px;
+}
